@@ -13,6 +13,10 @@ If your project isn't listed here and you would like it to be, please feel free 
 
 If you find a broken link or incorrect information, please feel free to open an issue or create a PR.
 
+## Tokio
+
+axum is built on top of Tokio. See also the [awesome-tokio](https://github.com/szabgab/awesome-tokio) list.
+
 ## Disclaimer
 
 I have not checked these projects and I don't necessarily recommend them. Use them at your own discretion.
