@@ -3,19 +3,15 @@
 [axum](https://crates.io/crates/axum) is an HTTP routing and request-handling library written in Rust that focuses on ergonomics and modularity.
 [repository](https://github.com/tokio-rs/axum)
 
-This page, contains a list of axum-related crates, project showcases, and several tutorials.
+This page contains a list of axum-related crates, project showcases, tutorials, videos, and other assorted items.
 
-It started as a copy of the `ECOSYSTEM.md` file of the [repository of axum](https://github.com/tokio-rs/axum) when it was [removed](https://github.com/tokio-rs/axum/pull/3737). After a brief maintenance as part of the [Code Maven axum book](https://axum.code-maven.com/) it was moved to the [awesome axum](https://github.com/szabgab/awesome-axum) repository.
+It started as a copy of the `ECOSYSTEM.md` file of the [repository of axum](https://github.com/tokio-rs/axum) when it was [removed](https://github.com/tokio-rs/axum/pull/3737). After a brief maintenance as part of the 📖 [Code Maven axum book](https://axum.code-maven.com/) it was moved to the 🎉 [awesome axum](https://github.com/szabgab/awesome-axum) repository.
 
-## Community Projects
+## Contribution
 
 If your project isn't listed here and you would like it to be, please feel free to create a PR.
 
 If you find a broken link or incorrect information, please feel free to open an issue or create a PR.
-
-## Tokio
-
-axum is built on top of Tokio. See also the [awesome-tokio](https://github.com/szabgab/awesome-tokio) list.
 
 ## Disclaimer
 
@@ -160,4 +156,25 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 - [Creating an Axum Web Server in Rust is easy!](https://www.youtube.com/watch?v=FDWKlJmHv6k) by Flo Woelki (2025.10.16; 21:05)
 - [Build REST APIs with the Rust Axum Web Framework](https://www.youtube.com/watch?v=7RlVM0D4CEA) by Trevor Sullivan (2025.06.03; 1:39:25)
 - [Decrusting the axum crate](https://www.youtube.com/watch?v=Wnb_n5YktO8) by Jon Gjengset (2023.07.28; 2:12:26)
+
+## Related awesome lists
+
+* [awesome-tokio](https://github.com/szabgab/awesome-tokio). axum is built on top of Tokio.
+
+* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+* [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust)
+* [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
+* [esp-rs/awesome-esp-rust](https://github.com/esp-rs/awesome-esp-rust)
+* [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+* [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
+* [osirislab/awesome-rust-security](https://github.com/osirislab/awesome-rust-security)
+* [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust)
+* [/ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui)
+
+## Unrelated awesome lists by the same author
+
+* [awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers)
+* [awesome independent softwre educators](https://github.com/szabgab/awesome-independent-software-educators)
+* [awesome lists](https://github.com/szabgab/awesome-lists)
+
 
