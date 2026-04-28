@@ -96,6 +96,11 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 - [gitore](https://codeberg.org/kallisti5/gitore): A fork of `rgit`. (axum 0.8)
 - [lishuuro.org](https://github.com/uros-5/backend-lishuuro): Small chess variant server that uses axum for the backend. (axum 0.8.3)
 - [freedit](https://github.com/freedit-org/freedit): A forum powered by rust. (axum 0.8.7)
+- [Pods-Blitz](https://pods-blitz.org) Self-hosted podcast publisher. Uses the crates axum-login, password-auth, sqlx and handlebars (for HTML templates). [source code](https://codeberg.org/pods-blitz/pods-blitz)  (axum 0.8.3)
+- [ReductStore](https://github.com/reductstore/reductstore): A time series database for storing and managing large amounts of blob data. (axum 0.8.7)
+- [fx](https://github.com/rikhuijzer/fx): A (micro)blogging server that you can self-host. (axum 0.8)
+- [clean_axum_demo](https://github.com/sukjaelee/clean_axum_demo): A modern, clean-architecture Rust API server template built with Axum and SQLx. It incorporates domain-driven design, repository patterns, JWT authentication, file uploads, Swagger documentation, OpenTelemetry. (axum 0.8.3)
+- [qiluo-admin](https://github.com/chelunfu/qiluo_admin) | Axum + SeaORM + JWT + Scheduled + Tasks + SnowId + Redis + Memory + VUE3 | DB: MySQL, Postgres, SQLite. (axum 0.8.9)
 
 ## 🖼️ Project showcase (old)
 
@@ -119,20 +124,15 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 - [Deaftone](https://github.com/Deaftone/Deaftone): Lightweight music server. With a clean and simple API. (axum 0.7.3)
 - [dropit](https://github.com/scotow/dropit): Temporary file hosting. (axum 0.5.13)
 - [cobrust](https://github.com/scotow/cobrust): Multiplayer web based snake game. (axum 0.6.1)
+- [meta-cross](https://github.com/scotow/meta-cross): Tweaked version of Tic-Tac-Toe. (axum 0.6.7)
+- [httq](https://github.com/scotow/httq) HTTP to MQTT trivial proxy. (axum 0.6.15)
+- [randoku](https://github.com/stchris/randoku): A tiny web service which generates random numbers and shuffles lists randomly. (axum 0.7)
+- [sero](https://github.com/clowzed/sero): Host static sites with custom subdomains as surge.sh does. But with full control and cool new features. (axum, sea-orm, postgresql). (axum 0.7.4)
+- [Hatsu](https://github.com/importantimport/hatsu): 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites. (axum 0.7)
+- [Mini RPS](https://github.com/marcodpt/minirps): Mini reverse proxy server, HTTPS, CORS, static file hosting and template engine (minijinja). (axum 0.7.7)
 
 ## 🖼️ Project showcase
 
-- [meta-cross](https://github.com/scotow/meta-cross): Tweaked version of Tic-Tac-Toe.
-- [httq](https://github.com/scotow/httq) HTTP to MQTT trivial proxy.
-- [Pods-Blitz](https://pods-blitz.org) Self-hosted podcast publisher. Uses the crates axum-login, password-auth, sqlx and handlebars (for HTML templates).
-- [ReductStore](https://github.com/reductstore/reductstore): A time series database for storing and managing large amounts of blob data
-- [randoku](https://github.com/stchris/randoku): A tiny web service which generates random numbers and shuffles lists randomly
-- [sero](https://github.com/clowzed/sero): Host static sites with custom subdomains as surge.sh does. But with full control and cool new features. (axum, sea-orm, postgresql)
-- [Hatsu](https://github.com/importantimport/hatsu): 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
-- [Mini RPS](https://github.com/marcodpt/minirps): Mini reverse proxy server, HTTPS, CORS, static file hosting and template engine (minijinja).
-- [fx](https://github.com/rikhuijzer/fx): A (micro)blogging server that you can self-host.
-- [clean_axum_demo](https://github.com/sukjaelee/clean_axum_demo): A modern, clean-architecture Rust API server template built with Axum and SQLx. It incorporates domain-driven design, repository patterns, JWT authentication, file uploads, Swagger documentation, OpenTelemetry.
-- [qiluo-admin](https://github.com/chelunfu/qiluo_admin) | Axum + SeaORM + JWT + Scheduled + Tasks + SnowId + Redis + Memory + VUE3 | DB: MySQL, Postgres, SQLite
 - [openapi-rs](https://github.com/baerwang/openapi-rs/tree/main/examples/axum) | This project adds a middleware layer to axum using openapi-rs, enabling automatic request validation and processing based on OpenAPI 3.1 specifications. It helps ensure that the server behavior strictly follows the OpenAPI contract.
 - [axum-rest-api-example](https://github.com/sheroz/axum-rest-api-sample): REST API Web service in Rust using axum, JSON Web Tokens (JWT), SQLx, PostgreSQL, Redis, Docker, structured error handling, and end-to-end API tests.
 - [tower-mcp](https://github.com/joshrotenberg/tower-mcp): Tower-native Model Context Protocol (MCP) implementation
