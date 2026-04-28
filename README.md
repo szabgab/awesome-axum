@@ -157,4 +157,7 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 - [Introduction to axum (talk)](https://www.youtube.com/watch?v=ETdmhh7OQpA): David Pedersen on Axum - Talk about axum from the Copenhagen Rust Meetup 2022.07.06 - 42 min.
 - [Introduction to axum](https://www.youtube.com/playlist?list=PLrmY5pVcnuE-_CP7XZ_44HN-mDrLQV4nS): YouTube playlist by Brooks Builds (brookzerker) 2022.12.22 ~ 10 hours. (axum 05-06 with an update to 0.8.1)
 - [Rust Axum Full Course](https://www.youtube.com/watch?v=XZtlD_m59sM): YouTube video by Jeremy Chone 2023.04.09 - 1 hour 20 min (GitHub repo updated to axum 0.7)
+- [Creating an Axum Web Server in Rust is easy!](https://www.youtube.com/watch?v=FDWKlJmHv6k) by Flo Woelki (2025.10.16; 21:05)
+- [Build REST APIs with the Rust Axum Web Framework](https://www.youtube.com/watch?v=7RlVM0D4CEA) by Trevor Sullivan (2025.06.03; 1:39:25)
+- [Decrusting the axum crate](https://www.youtube.com/watch?v=Wnb_n5YktO8) by Jon Gjengset (2023.07.28; 2:12:26)
 
