@@ -1,8 +1,11 @@
-# More examples, tutorials
+# Awesome axum
 
-This page, contains a list of additional axum-related crates, project showcases, and several tutorials.
+[axum](https://crates.io/crates/axum) is an HTTP routing and request-handling library written in Rust that focuses on ergonomics and modularity.
+[repository](https://github.com/tokio-rs/axum)
 
-It started as a copy of the `ECOSYSTEM.md` file of the [repository of axum](https://github.com/tokio-rs/axum) that was [removed from there](https://github.com/tokio-rs/axum/pull/3737). After a brief maintenance as part of the [Axum book](https://axum.code-maven.com/) it was moved to the [awesome axum](https://github.com/szabgab/awesome-axum) repository.
+This page, contains a list of axum-related crates, project showcases, and several tutorials.
+
+It started as a copy of the `ECOSYSTEM.md` file of the [repository of axum](https://github.com/tokio-rs/axum) when it was [removed](https://github.com/tokio-rs/axum/pull/3737). After a brief maintenance as part of the [Code Maven axum book](https://axum.code-maven.com/) it was moved to the [awesome axum](https://github.com/szabgab/awesome-axum) repository.
 
 ## Community Projects
 
