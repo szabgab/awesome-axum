@@ -105,6 +105,7 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 - [tower-mcp](https://github.com/joshrotenberg/tower-mcp): Tower-native Model Context Protocol (MCP) implementation. (axum 0.8)
 - [xidl](https://github.com/xidl/xidl): Using axum just like tonic, declare IDL, then generate server, client and OpenAPI. (axum 0.8; added on 2026.04.27)
 - [KeyCompute](https://github.com/aiqubits/keycompute): KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. (axum 0.8; added on 2026.04.27)
+- [remotehiro](https://www.remotehiro.com/) is a job board with performance, accessibility, and focus in mind.  [GitHub](https://github.com/tacohirosystems/remotehiro) (axum 0.8; added on 2026.05.02)
 
 ## 🖼️ Project showcase (old)
 
