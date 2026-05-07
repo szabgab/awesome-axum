@@ -85,6 +85,8 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 
 ## 🖼️ Projects with live deployed service
 
+Probably the best way to learn how to use axum is by looking at projects that are providing service.
+
 - [crates.io](https://crates.io/) itself uses axum as a web library and [diesel](https://crates.io/crates/diesel) for database access.  [GitHub](https://github.com/rust-lang/crates.io/)  (axum 0.8.9)
 
 ## 🖼️ Project showcase (axum 0.8.x)
