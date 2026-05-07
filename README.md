@@ -83,6 +83,10 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 - [Feature Flag Service](https://github.com/webrowse/feature-flag-service-backend/): A production-ready feature flag management service built with Rust, Axum, and PostgreSQL. (Addedon 2026.04.27)
 - [seamjs](https://github.com/canmi21/seam): Compile-time rendering framework where UI Stack (e.g. React...) pages are pre-rendered at build time and Axum serves them via Rust-native HTML slot injection (~1ms/page), with typed RPC procedures codegen'd from a shared manifest. (Added on 2026.04.27)
 
+## 🖼️ Projects with live deployed service
+
+- [crates.io](https://crates.io/) itself uses axum as a web library and [diesel](https://crates.io/crates/diesel) for database access.  [GitHub](https://github.com/rust-lang/crates.io/)  (axum 0.8.9)
+
 ## 🖼️ Project showcase (axum 0.8.x)
 
 - [webshelf](https://github.com/aiqubits/webshelf): 🤘 A convenient way to develop your web service with one click. (axum 0.8.8)
