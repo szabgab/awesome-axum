@@ -91,6 +91,7 @@ Probably the best way to learn how to use axum is by looking at projects that ar
 
 ## 🖼️ Project showcase (axum 0.8.x)
 
+- [snapimg](https://github.com/Moresyl/snapimg): Privacy-first, self-hosted image compression web app built with React and Axum, supporting lossless PNG, JPEG, WebP, and AVIF optimization. ([live demo](https://img.9nn.cn/); axum 0.8)
 - [webshelf](https://github.com/aiqubits/webshelf): 🤘 A convenient way to develop your web service with one click. (axum 0.8.8)
 - [ROAPI](https://github.com/roapi/roapi): Create full-fledged APIs for static datasets without writing a single line of code. (axum 0.8)
 - [turbo.fish](https://turbo.fish/) ([repository](https://github.com/jplatte/turbo.fish)): Find out for yourself 😉 (archived; axum 0.8.1)
