@@ -44,7 +44,7 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 - [rovo](https://docs.rs/rovo): Doc-comment-driven OpenAPI documentation generation for Axum web applications, built on top of aide.
 - [axum-jsonschema](https://docs.rs/axum-jsonschema/): A `Json<T>` extractor that does JSON schema validation of requests.
 - [axum-login](https://docs.rs/axum-login): Session-based user authentication for axum.
-- [axum-gate](https://docs.rs/axum-gate): JWT-based authentication and role-based authorization for axum (Cookie and Bearer, for monolithic and distributed applications).
+- [webgates-axum](https://docs.rs/webgates-axum): Axum adapter for role-based authorization and authentication for monolithic and distributed applications, successor to [axum-gate](https://docs.rs/axum-gate).
 - [axum-csrf-sync-pattern](https://crates.io/crates/axum-csrf-sync-pattern): A middleware implementing CSRF STP for AJAX backends and API endpoints.
 - [axum-otel-metrics](https://github.com/ttys3/axum-otel-metrics/): A axum OpenTelemetry Metrics middleware with prometheus exporter supported.
 - [tower-otel](https://github.com/mattiapenati/tower-otel): OpenTelemetry layer for HTTP/gRPC services with optional axum integration.
