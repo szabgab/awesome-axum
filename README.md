@@ -82,6 +82,8 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 - [axum-helmet](https://github.com/danielkov/rust-helmet): A security middleware library for popular Rust web frameworks, with first-class `axum` support. (Add on 2026.04.27)
 - [Feature Flag Service](https://github.com/webrowse/feature-flag-service-backend/): A production-ready feature flag management service built with Rust, Axum, and PostgreSQL. (Addedon 2026.04.27)
 - [seamjs](https://github.com/canmi21/seam): Compile-time rendering framework where UI Stack (e.g. React...) pages are pre-rendered at build time and Axum serves them via Rust-native HTML slot injection (~1ms/page), with typed RPC procedures codegen'd from a shared manifest. (Added on 2026.04.27)
+- [axum-guard-rs](https://crates.io/crates/axum-guard-rs): Security middleware for axum: IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
+- [tower-guard-rs](https://crates.io/crates/tower-guard-rs): Tower layer for API security: IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 
 ## 🖼️ Projects with live deployed service
 
