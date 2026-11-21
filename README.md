@@ -112,6 +112,7 @@ Probably the best way to learn how to use axum is by looking at projects that ar
 - [xidl](https://github.com/xidl/xidl): Using axum just like tonic, declare IDL, then generate server, client and OpenAPI. (axum 0.8; added on 2026.04.27)
 - [KeyCompute](https://github.com/aiqubits/keycompute): KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. (axum 0.8; added on 2026.04.27)
 - [remotehiro](https://www.remotehiro.com/) is a job board with performance, accessibility, and focus in mind.  [GitHub](https://github.com/tacohirosystems/remotehiro) (axum 0.8; added on 2026.05.02)
+- [Rustapi](https://github.com/ndelvalle/rustapi): RESTful API template using PostgreSQL and SQLx. (axum 0.8.9)
 
 ## 🖼️ Project showcase (old)
 
@@ -121,7 +122,6 @@ Probably the best way to learn how to use axum is by looking at projects that ar
 - [notify.run](https://github.com/notify-run/notify-run-rs): HTTP-to-WebPush relay for sending desktop/mobile notifications to yourself, written in Rust. (axum 0.3)
 - [Book Management](https://github.com/lz1998/axum-book-management): CRUD system of book-management with ORM and JWT for educational purposes. (axum 0.7)
 - [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx): A Rust implementation of the [Realworld](https://github.com/gothinkster/realworld) demo app spec using axum and [SQLx](https://crates.io/crates/sqlx). (axum 0.3.4) See [fork](https://github.com/davidpdrsn/realworld-axum-sqlx) with newer dependencies. (axum 0.7.3)
-- [Rustapi](https://github.com/ndelvalle/rustapi): RESTful API template using MongoDB. (axum 0.7.5)
 - [axum-postgres-template](https://github.com/koskeller/axum-postgres-template): Production-ready axum + PostgreSQL application template. (axum 0.7.6)
 - [Jotsy](https://github.com/ohsayan/jotsy): Self-hosted notes app powered by Skytable, axum and Tokio. (axum 0.5.17)
 - [Svix](https://www.svix.com) ([repository](https://github.com/svix/svix-webhooks)): Enterprise-ready webhook service. (axum 0.7.9)
